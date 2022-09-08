@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Software Engineer based on Indonesia.
+I am Software Engineer based in Indonesia.
 Currently I am working as a freelance sotware engineer to develop an ERP System using:
 1. .NET (VB.NET & C#)
 2. Javascript (jQuery)
